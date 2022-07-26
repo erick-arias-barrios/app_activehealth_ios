@@ -1,2 +1,2 @@
 # app_activehealth_ios
-Aplicación Salud Activa en plataforma iOS
+Aplicación móvil "Salud Activa" en plataforma iOS.
